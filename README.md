@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**Thatoyaone-Les/thatoyaone-les** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there, Welcome to my github portfolio.
+## About me
+- fullstack developer
+- South African based
+- collaborator
+- personal website :[lesetedi.co.za](https://lesetedi.co.za)
+- email: [:incoming_envelope:](https://thato@lesetedi.co.za)
+## Tech Stack
+- c#
+- java/kotlin
+- python
+- javascript + Nodejs
+- PHP / laravelphp
+- WAMP & LAMP
+- android developer
+## Mantra
+>'Always do the best, for others just as much as for self'
