@@ -4,7 +4,7 @@
 - South African based
 - collaborator
 - personal website :[lesetedi.co.za](https://lesetedi.co.za)
-- email: [:incoming_envelope:](https://thato@lesetedi.co.za)
+- email: [:incoming_envelope:](mailto:thato@lesetedi.co.za?subject=github%20enquiry)
 ## Tech Stack
 - c#
 - java/kotlin
