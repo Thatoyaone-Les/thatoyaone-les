@@ -14,6 +14,6 @@
 - MAUI
 - android developer
 - MYSQL & MSSQL
-- -html5, CSS3
+- html5, CSS3
 ## Mantra
 >'Small increments equal big results.'
